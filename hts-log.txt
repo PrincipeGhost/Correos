@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Jul 2025 06:33:36 at https://www.correos.es/es/es/herramientas/localizador/envios/detalle +*.js +*.css +*.json +*.png +*.jpg +*.jpeg +*.svg
+(winhttrack -qwC2%P%s%u%I0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.correos.es/es/es/herramientas/localizador/envios/detalle -O1 "C:\Mis lugares Web\CORREO" +*.js +*.css +*.json +*.png +*.jpg +*.jpeg +*.svg )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:33:52	Warning: 	Link https://www.correos.es/es/es/herramientas/localizador/helpers/getObjectProperty.js not scanned (follow robots meta tag)
+06:33:52	Warning: 	Moved Permanently for https://www.correos.es/es/es/herramientas/localizador/envios/
+06:33:52	Warning: 	File has moved from https://www.correos.es/es/es/herramientas/localizador/envios/ to http://www.correos.es/es/es/herramientas/localizador/envios
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 22 links scanned, 20 files written (8552532 bytes overall) [1694242 bytes received at 105890 bytes/sec], 8552677 bytes transferred using HTTP compression in 20 files, ratio 19%, 7.3 requests per connection
+(No errors, 3 warnings, 0 messages)
